@@ -17,7 +17,7 @@ There's also an HDMI footprint, but no HDMI connector soldered. I did detect som
 
 ![](photos/IMG_20231229_200541.jpg)
 
-Back side:
+Bottom side:
 
 ![](photos/IMG_20231229_200512.jpg)
 
