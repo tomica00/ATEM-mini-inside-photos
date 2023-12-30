@@ -32,3 +32,4 @@ Open from the thicker side first, as there are cables at the thinner side that c
 
 ![](photos/IMG_20231229_211730.jpg)
 
+Ignore the fan wires, I was experimenting. It's a regular XH plug with 4 wires - red is VCC, black is GND, and the blue and yellow wire are for PWM. If you remove the blue and yellow wire from the connector, the fan will run at full speed all the time. See my other repo for that mod.
