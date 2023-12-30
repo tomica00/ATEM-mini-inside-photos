@@ -26,7 +26,17 @@ Back side:
 
 There are 4 screws in the corners, under the rubber pads. There's another screw in the middle, under the black label. You need a T10 torx screwdriver.
 
+![](photos/IMG_20231229_215824.jpg)
+
+![](photos/IMG_20231229_215648.jpg)
+
 After removing the screws, use a guitar pick and slide it along the edges to release the clips.
+
+![](photos/IMG_20231229_212156_1.jpg)
+
+![](photos/IMG_20231229_212225.jpg)
+
+![](photos/IMG_20231229_212209.jpg)
 
 Open from the thicker side first, as there are cables at the thinner side that connect the top and bottom board.
 
