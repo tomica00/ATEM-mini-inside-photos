@@ -1,5 +1,7 @@
-# ATEM-mini-inside-photos
-What's inside ATEM Mini Pro ISO. Photos of the main board.
+# ATEM Mini inside photos
+What's inside ATEM Mini Pro ISO and ATEM Mini Extreme. Photos of the main board.
+
+# ATEM Mini Pro ISO
 
 ## The heart
 Under the heatsink is the main component: a system on chip (SOC) that contains three ARM processors and an FPGA! Atem Mini Pro ISO runs on Xilinx Zynq UltraScale+ EV.
@@ -49,3 +51,13 @@ If you want to remove the main board, you'll have to remove the nut on the power
 ![](photos/IMG_20231229_215515.jpg)
 
 I don't have a photo, but the heatsink is removed by flipping the board and squeezing the brass clips together and through the holes. Make sure to replace the thermal paste if you remove the heatsink.
+
+# ATEM Mini Extreme
+
+![](photos/IMG_20240119_163613.jpg)
+
+![](photos/IMG_20240119_163641.jpg)
+
+![](photos/IMG_20240119_163705_edit_452583718897602.jpg)
+
+![](photos/IMG_20240119_163705_edit_452583718897602.jpg)
